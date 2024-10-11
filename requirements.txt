@@ -4,4 +4,6 @@ langchain-community==0.3.0
 langchain-core==0.3.2
 langchain-elasticsearch==0.3.0
 
+elasticsearch==8.15.1
+
 ipykernel==6.29.5
