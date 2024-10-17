@@ -20,4 +20,4 @@ pip install -r "${CLONE_DIR}/requirements.txt"
 rm -rf $CLONE_DIR
 
 # Open the relevant notebook when starting Jupyter Lab
-echo "c.LabApp.default_url = '/lab/tree/vector_db_template.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
+echo "c.LabApp.default_url = '/lab/tree/rag_template.ipynb'" >> /home/onyxia/.jupyter/jupyter_server_config.py
